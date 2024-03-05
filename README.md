@@ -10,6 +10,7 @@ You can view the live demo of the website at [https://darwinskillshub.netlify.ap
 
 - HTML5
 - CSS3
+- SCSS
 - JavaScript
 - PHP
 
